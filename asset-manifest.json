@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/testrepo/static/css/main.6a46d560.css",
+    "main.js": "/testrepo/static/js/main.0c7fe2ab.js",
+    "static/media/Portrait.png": "/testrepo/static/media/Portrait.d334ab2016377cb3f081.png",
+    "static/media/9.png": "/testrepo/static/media/9.7f7bed34c939b6eb95fb.png",
+    "static/media/6.png": "/testrepo/static/media/6.a365a26fb7adf2083b7a.png",
+    "static/media/8.png": "/testrepo/static/media/8.b50c2b6baf2bb0a15799.png",
+    "static/media/12.png": "/testrepo/static/media/12.0100ff5ce4ce60d0fd5b.png",
+    "static/media/5.png": "/testrepo/static/media/5.f4540de95dafbd3d0f56.png",
+    "static/media/3.png": "/testrepo/static/media/3.36a9cb6647d615726682.png",
+    "static/media/11.png": "/testrepo/static/media/11.70920ae69ab79b470102.png",
+    "static/media/7.png": "/testrepo/static/media/7.78c9c7b71e6abf17fa95.png",
+    "static/media/10.png": "/testrepo/static/media/10.bbead5089033d14b4522.png",
+    "static/media/13.png": "/testrepo/static/media/13.a68ea10e9ebe59a45ad2.png",
+    "static/media/1.png": "/testrepo/static/media/1.46caf7916f4e126cf3ec.png",
+    "static/media/2.png": "/testrepo/static/media/2.b79ffa9376cf51e0220b.png",
+    "static/media/4.png": "/testrepo/static/media/4.d415f648c01e869ec5c0.png",
+    "index.html": "/testrepo/index.html",
+    "main.6a46d560.css.map": "/testrepo/static/css/main.6a46d560.css.map",
+    "main.0c7fe2ab.js.map": "/testrepo/static/js/main.0c7fe2ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a46d560.css",
+    "static/js/main.0c7fe2ab.js"
+  ]
+}
