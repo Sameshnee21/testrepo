@@ -1,0 +1,35 @@
+
+
+.setone{
+    width: 600px;
+    height: 300px;
+    margin-top: 50px;
+margin-left: 150px;
+}
+
+
+.settwoo{
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+margin-left: 4%;
+}
+
+.info{
+    color: rgb(252, 178, 42);
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align:left;
+  margin-top: -15%;
+  margin-right: 20%;
+  margin-left: 55%;
+  
+}
+
+.title2{
+    color: rgb(252, 178, 42);
+    text-align: center;
+    margin: 5%;
+    padding-top: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
