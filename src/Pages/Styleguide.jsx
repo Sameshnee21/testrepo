@@ -30,6 +30,19 @@ function Styleguide() {
 <img className="settwoo" src={tt1} alt="wesite screenshot of homepage." />
 <img className="settwoo" src={tt2} alt="website screenshot of events/news" />
 <img className="settwoo" src={tt3} alt="website screenshot of explore page" />
+<img className="setthree" src={m3} alt="marshall tt homepage" />
+<img className="setthree" src={m2} alt="marshall tt landscape page" />
+<img className="setthree" src={m1} alt="marsall tt graphic" />
+
+<h2 className="title2"> Wireframes</h2>
+<img className="frames" src={home} alt="" />
+<img className="frames" src={thegreat} alt="" />
+<img className="frames" src={tg} alt="" />
+<img className="frames" src={landscape} alt="" />
+<img className="frames" src={style} alt="" />
+<img className="frames" src={theory} alt="" />
+<img className="frames" src={art} alt="" />
+<img className="frames" src={about} alt="" />
         
         </div>
     );
