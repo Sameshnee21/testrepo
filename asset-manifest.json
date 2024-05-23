@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/testrepo/static/css/main.2b1e691a.css",
-    "main.js": "/testrepo/static/js/main.41ced060.js",
+    "main.css": "/testrepo/static/css/main.8fd9a01e.css",
+    "main.js": "/testrepo/static/js/main.e2f7d044.js",
     "static/media/ColourPalette.png": "/testrepo/static/media/ColourPalette.5240bfe3d3cbdb8748e8.png",
     "static/media/Marshall2.png": "/testrepo/static/media/Marshall2.4e1114edfb5c7fe02844.png",
     "static/media/TT3.png": "/testrepo/static/media/TT3.bcd69ebb18a7d897a179.png",
     "static/media/TT2.png": "/testrepo/static/media/TT2.58c99c236809f33d0769.png",
+    "static/media/IsleofMan Map.png": "/testrepo/static/media/IsleofMan Map.10e83c7bd41b2d192c5e.png",
     "static/media/Portrait.png": "/testrepo/static/media/Portrait.d334ab2016377cb3f081.png",
     "static/media/Marshall1.png": "/testrepo/static/media/Marshall1.e9539ab3698725b692b0.png",
     "static/media/9.png": "/testrepo/static/media/9.7f7bed34c939b6eb95fb.png",
@@ -32,11 +33,11 @@
     "static/media/2.png": "/testrepo/static/media/2.b79ffa9376cf51e0220b.png",
     "static/media/4.png": "/testrepo/static/media/4.d415f648c01e869ec5c0.png",
     "index.html": "/testrepo/index.html",
-    "main.2b1e691a.css.map": "/testrepo/static/css/main.2b1e691a.css.map",
-    "main.41ced060.js.map": "/testrepo/static/js/main.41ced060.js.map"
+    "main.8fd9a01e.css.map": "/testrepo/static/css/main.8fd9a01e.css.map",
+    "main.e2f7d044.js.map": "/testrepo/static/js/main.e2f7d044.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b1e691a.css",
-    "static/js/main.41ced060.js"
+    "static/css/main.8fd9a01e.css",
+    "static/js/main.e2f7d044.js"
   ]
 }
