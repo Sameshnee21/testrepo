@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.css": "/testrepo/static/css/main.8fd9a01e.css",
-    "main.js": "/testrepo/static/js/main.e2f7d044.js",
+    "main.css": "/testrepo/static/css/main.57a48528.css",
+    "main.js": "/testrepo/static/js/main.1ad0001e.js",
+    "static/media/Sector6.png": "/testrepo/static/media/Sector6.46706674915307f4619f.png",
     "static/media/ColourPalette.png": "/testrepo/static/media/ColourPalette.5240bfe3d3cbdb8748e8.png",
+    "static/media/Sector8.png": "/testrepo/static/media/Sector8.745f94a3bf9d1f9b624b.png",
+    "static/media/Sector9.png": "/testrepo/static/media/Sector9.2624b2ebc6d4e726a927.png",
     "static/media/Marshall2.png": "/testrepo/static/media/Marshall2.4e1114edfb5c7fe02844.png",
+    "static/media/Sector12.png": "/testrepo/static/media/Sector12.fa0b0f9618cbe37b049c.png",
+    "static/media/Sector4.png": "/testrepo/static/media/Sector4.637418e9cb10b8dce343.png",
     "static/media/TT3.png": "/testrepo/static/media/TT3.bcd69ebb18a7d897a179.png",
+    "static/media/Sector11.png": "/testrepo/static/media/Sector11.f828857a82f5f1f972f2.png",
     "static/media/TT2.png": "/testrepo/static/media/TT2.58c99c236809f33d0769.png",
     "static/media/IsleofMan Map.png": "/testrepo/static/media/IsleofMan Map.10e83c7bd41b2d192c5e.png",
     "static/media/Portrait.png": "/testrepo/static/media/Portrait.d334ab2016377cb3f081.png",
@@ -27,17 +33,18 @@
     "static/media/11.png": "/testrepo/static/media/11.70920ae69ab79b470102.png",
     "static/media/7.png": "/testrepo/static/media/7.78c9c7b71e6abf17fa95.png",
     "static/media/10.png": "/testrepo/static/media/10.bbead5089033d14b4522.png",
+    "static/media/Logo 1.png": "/testrepo/static/media/Logo 1.1bdc075806b7d268b3e7.png",
     "static/media/Marshall3.png": "/testrepo/static/media/Marshall3.97ed468087fb121633ae.png",
     "static/media/13.png": "/testrepo/static/media/13.a68ea10e9ebe59a45ad2.png",
     "static/media/1.png": "/testrepo/static/media/1.46caf7916f4e126cf3ec.png",
     "static/media/2.png": "/testrepo/static/media/2.b79ffa9376cf51e0220b.png",
     "static/media/4.png": "/testrepo/static/media/4.d415f648c01e869ec5c0.png",
     "index.html": "/testrepo/index.html",
-    "main.8fd9a01e.css.map": "/testrepo/static/css/main.8fd9a01e.css.map",
-    "main.e2f7d044.js.map": "/testrepo/static/js/main.e2f7d044.js.map"
+    "main.57a48528.css.map": "/testrepo/static/css/main.57a48528.css.map",
+    "main.1ad0001e.js.map": "/testrepo/static/js/main.1ad0001e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fd9a01e.css",
-    "static/js/main.e2f7d044.js"
+    "static/css/main.57a48528.css",
+    "static/js/main.1ad0001e.js"
   ]
 }
