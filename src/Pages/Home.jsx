@@ -1,4 +1,5 @@
 import React from "react";
+import ReactPlayer from "react-player/youtube";
 import "../style/home.css";
 import image1 from "../Images/1.png";
 import image2 from "../Images/2.png";
@@ -19,7 +20,11 @@ function Home() {
     return (
       <div >
         <h1 className="Title">Drop a gear and disappear into "The Isle of Man TT"</h1>
-        <video src=""></video>
+
+        
+        <ReactPlayer className="react-player" url="https://www.youtube.com/watch?v=n1oUspMuUgk&t=16s"/>
+        
+       
 
         <p className="P">For over 100 years, the Isle of Man hosts the world's greatest racers to test themselves against the beautiful "Moutain Course". The track stretches for 37.73 miles and uses the island's public roads as part of the race. The Isle of Man TT is not only known to challenge one's skillset but is also considered one of the world's most dangerous sports. With top speeds of 350km/h and different terrains, this sport is truly "a daredevils playground". </p>
         
@@ -37,6 +42,8 @@ function Home() {
         <img className="twelve" src={image12} alt="Partnships with Isle of Man TT." />
         <img className="thirteen" src={image13} alt="Partnships with Isle of Man TT." />
         </div>
+
+        
         
     );
   }
