@@ -34,6 +34,11 @@ margin-top: 5%
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.ban1{
+ align-content: center;
+ margin-left: 10px;
+}
+
 /*Partnerships*/
 
 .one{
@@ -114,4 +119,5 @@ margin-top: 5%
   height: 200px;
  
  }
+
 

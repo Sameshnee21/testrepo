@@ -46,8 +46,8 @@ function Artwork() {
 {/*https://za.pinterest.com/pin/431641945516040109/ */}
 {/*https://i.pinimg.com/originals/49/0a/b5/490ab5d632b5ba37f427c6a1f171336f.jpg */}
 
-        <p className="P"></p>
-        
+       
+<h3  className="Title">ARTWORK SPACE HERE.</h3>    
         
       </div>
     );

@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import ScrollToTop from "react-scroll-to-top";
 import Home from "./Pages/Home";
 import Track from "./Pages/Track";
 import History from "./Pages/History";
@@ -13,6 +14,7 @@ import Navigation from "./Components/Navigation";
 function App() {
   return (
     <>
+    <ScrollToTop smooth color="#f59b14" />
       <BrowserRouter>
         <Navigation />
         <Routes>
@@ -28,7 +30,7 @@ function App() {
         </Routes>
       </BrowserRouter>
 
-      
+      <p style={{ marginTop: "100vh" }}>bottom</p>
     </>
   );
 }
