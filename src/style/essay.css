@@ -1,5 +1,46 @@
+/*Introduction*/
 
+.essay{
+    
+    width: 1250px;
+    margin-top: -250%;
+    padding-top: 10px;
+}
 
+.INTRO{
+    color: rgb(252, 192, 42);
+    text-align: left;
+    margin: 30px;
+    padding-top: -70px;
+    padding-left: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: inherit;
+}
+
+.INTROT{
+    color: rgb(252, 178, 42);
+    font-size: 18px;
+    text-align: left;
+    margin-left: 8%;
+    margin-right: 35%;
+    margin-bottom: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: inherit;
+}
+
+/*image*/
+
+.pic{
+opacity: 15%;
+height: 60%;
+    padding-left: 25%;
+}
+
+.pics{
+    width: 50%;
+    padding-top: 8px;
+    padding-left: 8%;
+}
 /*sources consulted*/
 
 .sources{
