@@ -6,7 +6,7 @@ function Navigation() {
     <div className="nav">
 
       <div className="home">
-      <Link to={"/"}>Home</Link>
+      <Link to={"/"}>TT Home</Link>
       </div>
 
       <div className="links">
