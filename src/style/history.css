@@ -44,7 +44,8 @@ margin-right: 6%;
 .GOATS{
     width: 60%;
     margin-left: -90px;
-    margin-bottom: 5%;
+background-color: inherit;
+padding-bottom: 60px;
 }
 
 .collier{
@@ -53,6 +54,6 @@ margin-right: 6%;
     font-size: 18px;
     margin-right: 10%;
     margin-left: 50%;
-    margin-top: -30%;
+    margin-top: -33%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

@@ -43,6 +43,12 @@ function Styleguide() {
 <img className="frames" src={theory} alt="" />
 <img className="frames" src={art} alt="" />
 <img className="frames" src={about} alt="" />
+
+<h2 className="title2"> Reflection</h2>
+<p className="P">This assignment has been an exciting learning experience as I have learnt new ways to create a better user experience through colour and layout. My colour choices were based on combinations that were easier on the eyes while still legible. The layout followed the same concept to achieve a “breathable space” in order for the user to absorb information instead of merely scanning each page. </p>
+<p className="P">User experience is a challenging yet important aspect to consider while designing a website. As designers, we sometimes base our decisions on our personal preference in hopes that the target audience will feel the same. This technique or rather “bad habit” creates many hurdles since the research is based on assumption rather than black and white statistics. Overall, this website was a challenging yet enjoyable task. I was able to use my own passion as a backbone for this assignment which made the process of building the website more pleasant.  </p>      
+   
+        
         
         </div>
     );

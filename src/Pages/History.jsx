@@ -25,19 +25,21 @@ function History() {
 
 
 <img className="GOATS" src={collier} alt="Illustration" />
-<p className="collier"> <h3 className="Title">CHARLIE COLLIER</h3> was the one of the founders of the Isle of Man TT and the first winner of the 1907 single cylinder class TT race with an average speed of 38.21mph with a 431cc Matchless. His fastest lap recorded was 42.9 mph. The following year Collier took second place in the same single cylinder class.</p>
+<p className="collier"> <h3 className="Title">CHARLIE COLLIER (1885-1957)</h3> was the one of the founders of the Isle of Man TT and the first winner of the 1907 single cylinder class TT race with an average speed of 38.21mph with a 431cc Matchless. His fastest lap recorded was 42.9 mph. The following year Collier took second place in the same single cylinder class.</p>
+
 {/*https://www.iomtt.com/tt-database/competitors?ride_id=1*/}
 
 
 <img className="GOATS" src={dunlop} alt="Illustration" />
-<p className="collier"><h3 className="Title">JOEY DUNLOP</h3> also known as ‘King of the Road’ </p>
-{/*https://www.iomtt.com/tt-database/competitors?ride_id=8649 */}
+<p className="collier"><h3 className="Title">JOEY DUNLOP (1952-2000)</h3> also known as ‘King of the Road’ made his debute in 1976. The first of his record breaking 26 wins came in the 1977 Jubilee Classic Race. He won the TT Formula 1 Race six years in a row between 1983 and 1988 and was Formula 1 World Champion five times. His fastest ever lap at 123.87mph to become joint fourth fastest man around the course.</p>
+
+{/*https://www.iomtt.com/tt-database/competitors?ride_id=1018 */}
 
 <img className="GOATS" src={hickman} alt="Illustration" />
-<p className="collier"><h3 className="Title">PETER HICKMAN</h3> was the first winner of the 1907 single cylinder class TT race with an average speed of 38.21mph.</p>
+<p className="collier"><h3 className="Title">PETER HICKMAN (1989-)</h3> made his debut at the TT Races in 2014, where he was also the fastest newcomer. Hickman has also gone on to win 13 races at the legendary Mountain Course and became the fastest-ever TT rider officially in 2018 on his BMW Superbike, his fastest lap being 135.452mph to Senior TT victory. </p>
+{/*https://www.motorsport.com/roadracing/news/isle-of-man-tt-2023-hickman-wins-superstock-race-with-new-lap-record-/10480713/ */}
 
-
-         
+<h2 className="Great">TT STATS</h2>
 
         <h4 className="Title">Research and Images: https://www.iomttraces.com/racing/page/history/</h4>
         </div>
