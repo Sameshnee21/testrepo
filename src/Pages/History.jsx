@@ -6,6 +6,8 @@ import history2 from "../Images/history2.png";
 import collier from "../Images/Collier.png";
 import dunlop from "../Images/Dunlop.png";
 import hickman from "../Images/Hickman.png";
+import joey from "../Images/joey.png";
+import joey2 from "../Images/joey2.png";
 
 function History() {
     return (
@@ -40,6 +42,15 @@ function History() {
 {/*https://www.motorsport.com/roadracing/news/isle-of-man-tt-2023-hickman-wins-superstock-race-with-new-lap-record-/10480713/ */}
 
 <h2 className="Great">TT STATS</h2>
+<img className="GOATS" src={joey} alt="Illustration" />
+<img className="GOATS2" src={joey2} alt="Illustration" />
+
+<div className="f">
+<p className="fact">Total Deaths: 146</p>
+<p className="fact">Most Fatal Year: 2005</p>
+<p className="fact">Fastest Lap: 135.452mph </p>
+<p className="fact">Unofficial Top Speed: 206mph</p>
+</div>
 
         <h4 className="Title">Research and Images: https://www.iomttraces.com/racing/page/history/</h4>
         </div>

@@ -48,6 +48,14 @@ background-color: inherit;
 padding-bottom: 60px;
 }
 
+.GOATS2{
+    width: 60%;
+    margin-left: 40%;
+    margin-top: -65%;
+background-color: transparent;
+
+}
+
 .collier{
     text-align: left;
     color: rgb(252, 178, 42);
@@ -55,5 +63,20 @@ padding-bottom: 60px;
     margin-right: 10%;
     margin-left: 50%;
     margin-top: -33%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.f{
+    margin-top: -25%;
+    margin-bottom: 15%;
+}
+
+.fact{
+    text-align: center;
+    color: rgb(238, 72, 21);
+    font-size: 18px;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-bottom: 10px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
