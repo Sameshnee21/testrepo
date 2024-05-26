@@ -23,11 +23,12 @@ function Home() {
 
         
         <ReactPlayer className="react-player" url="https://www.youtube.com/watch?v=n1oUspMuUgk&t=16s"/>
-        
-       
+      
 
         <p className="P">For over 100 years, the Isle of Man hosts the world's greatest racers to test themselves against the beautiful "Moutain Course". The track stretches for 37.73 miles and uses the island's public roads as part of the race. The Isle of Man TT is not only known to challenge one's skillset but is also considered one of the world's most dangerous sports. With top speeds of 350km/h and different terrains, this sport is truly "a daredevils playground". </p>
         
+
+        {/*sponsor images*/}
         <img className="one" src={image1} alt="Partnships with Isle of Man TT." />
         <img className="two" src={image2} alt="Partnships with Isle of Man TT." />
         <img className="three" src={image3} alt="Partnships with Isle of Man TT." />

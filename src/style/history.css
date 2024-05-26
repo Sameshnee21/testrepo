@@ -1,0 +1,58 @@
+.banner{
+    width: 100%;
+    margin-top: -30px;
+    margin-bottom: -5%;
+    background-color: inherit;
+}
+
+.historyT{
+    color: rgb(252, 178, 42);
+    font-size: 18px;
+    text-align: left;
+    margin-top: -20%;
+    margin-left: 8%;
+    margin-right: 45%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: inherit;
+}
+
+.image2{
+    width: 50%;
+    padding-left: 50%;
+margin-top: -2%;
+}
+
+.Great{
+    color: rgb(252, 178, 42);
+    text-align: center;
+    margin: 30px;
+    padding-top: 8%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.GreatT{
+    color: rgb(252, 178, 42);
+    font-size: 18px;
+    text-align: justify;
+margin-left: 6%;
+margin-right: 6%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+/*Illustrations done by Me*/
+.GOATS{
+    width: 60%;
+    margin-left: -90px;
+    margin-bottom: 5%;
+}
+
+.collier{
+    text-align: left;
+    color: rgb(252, 178, 42);
+    font-size: 18px;
+    margin-right: 10%;
+    margin-left: 50%;
+    margin-top: -30%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
