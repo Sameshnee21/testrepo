@@ -23,6 +23,13 @@
 
 /*art work here*/
 
+.pixel{
+    width: 100%;
+    height: 100%;
+    opacity: 50%;
+    
+}
+
 .A1{
     width: 10px;
     height: 20px;

@@ -6,6 +6,7 @@ import art2 from "../Images/art2.png";
 import art3 from "../Images/art3.png";
 import art4 from "../Images/art4.png";
 import art5 from "../Images/art5.png";
+import dunlop from "../Images/dunlop pixel.png";
 
 function Artwork() {
     return (
@@ -48,7 +49,7 @@ function Artwork() {
 
        
 <h3  className="Title">ARTWORK SPACE HERE.</h3>  
-
+<img className="pixel" src={dunlop} alt="" />
 
 <div className="A">
 <div className="A1"/> 
@@ -62,6 +63,36 @@ function Artwork() {
 <div className="F1"/>
 <div className="G1"/>
 <div className="H1"/>
+
+<div className="I1"/>
+<div className="J1"/>
+<div className="K1"/>
+<div className="L1"/>
+<div className="M1"/>
+<div className="N1"/>
+<div className="O1"/>
+<div className="P1"/>
+<div className="Q1"/>
+<div className="R1"/>
+<div className="S1"/>
+<div className="T1"/>
+<div className="U1"/>
+<div className="V1"/>
+<div className="W1"/>
+<div className="X1"/>
+<div className="Y1"/>
+<div className="Z1"/>
+<div className="AA1"/>
+<div className="AB1"/>
+<div className="AC1"/>
+<div className="AD1"/>
+<div className="AE1"/>
+<div className="AF1"/>
+<div className="AG1"/>
+<div className="AH1"/>
+<div className="AI1"/>
+<div className="AJ1"/>
+
 
 
 </div>
