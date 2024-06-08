@@ -26,8 +26,13 @@
 .pixel{
     width: 100%;
     height: 100%;
-    opacity: 50%;
+    opacity: 40%;
     
+}
+
+.A{
+margin-top: -97.5%;
+margin-right: 22%;
 }
 
 .A1{
