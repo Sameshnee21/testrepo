@@ -47,8 +47,26 @@ function Artwork() {
 {/*https://i.pinimg.com/originals/49/0a/b5/490ab5d632b5ba37f427c6a1f171336f.jpg */}
 
        
-<h3  className="Title">ARTWORK SPACE HERE.</h3>    
-        
+<h3  className="Title">ARTWORK SPACE HERE.</h3>  
+
+
+<div className="A">
+<div className="A1"/> 
+<div className="A1"/>
+
+<div className="B1"/>
+<div className="C1"/>
+<div className="D1"/>
+
+<div className="E1"/>
+<div className="F1"/>
+<div className="G1"/>
+<div className="H1"/>
+
+
+</div>
+
+ 
       </div>
     );
   }
