@@ -50,6 +50,8 @@ function Artwork() {
        
 <h3  className="Title">ARTWORK SPACE HERE.</h3>  
 <img className="pixel" src={dunlop} alt="" />
+ 
+{/*hair chunks*/ }
 
 <div className="A">
 <div className="A1"/> 
@@ -70,6 +72,9 @@ function Artwork() {
 <div className="L1"/>
 <div className="M1"/>
 <div className="N1"/>
+
+{/*eyes*/ }
+<div className="eyes">
 <div className="O1"/>
 <div className="P1"/>
 <div className="Q1"/>
@@ -77,6 +82,9 @@ function Artwork() {
 <div className="S1"/>
 <div className="T1"/>
 <div className="U1"/>
+</div>
+
+
 <div className="V1"/>
 <div className="W1"/>
 <div className="X1"/>

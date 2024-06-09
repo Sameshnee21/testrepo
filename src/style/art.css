@@ -24,15 +24,15 @@
 /*art work here*/
 
 .pixel{
-    width: 100%;
-    height: 100%;
-    opacity: 40%;
+    width: 98%;
+    height: 98%;
+    opacity: 30%;
     
 }
 
 .A{
-margin-top: -97.5%;
-margin-right: 22%;
+margin-top: -96%;
+margin-right: 24%;
 }
 
 .A1{
@@ -94,9 +94,108 @@ margin-right: 22%;
 
 
 .H1{
-  
+    width: 40px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 78%;
+    margin-top: -4%;
 }
 
 .I1{  
-   
+    width: 20px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 80%;
+    margin-top: -4%;
+}
+
+.J1{  
+    width: 10px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 80%;
+    margin-top: -4.8%;
+}
+
+.K1{
+    width: 450px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 43%;   
+    margin-top: 6%;
+}
+
+.L1{
+    width: 490px;
+    height: 50px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 40%;   
+    margin-top: 0%;
+}
+
+.M1{
+    width: 580px;
+    height: 50px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 36%;   
+    margin-top: 31;
+}
+
+.N1{
+    width: 600px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 35%;   
+    margin-top: -2%;
+}
+
+/*eyebrows (left)*/
+.O1{
+    width: 110px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 50%;   
+    margin-top: 18%;   
+}
+
+.P1{
+    width: 160px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 46%;   
+    margin-top: 0%;   
+}
+
+.Q1{
+    width: 140px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 47.95%;   
+    margin-top: 0%;   
+}
+
+/*eyebrow right*/
+
+.R1{
+    width: 110px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 68.5%;   
+    margin-top: -3%;  
+}
+
+.S1{
+    width: 160px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 67%;   
+    margin-top: 0%;
+}
+
+.T1{
+    width: 140px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 67%;   
+    margin-top: 0%; 
 }
