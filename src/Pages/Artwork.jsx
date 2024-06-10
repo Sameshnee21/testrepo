@@ -73,23 +73,27 @@ function Artwork() {
 <div className="M1"/>
 <div className="N1"/>
 
-{/*eyes*/ }
-<div className="eyes">
+{/*eyebrow left*/ }
+
 <div className="O1"/>
 <div className="P1"/>
 <div className="Q1"/>
+
+{/*eyebrow right*/}
 <div className="R1"/>
 <div className="S1"/>
 <div className="T1"/>
+
+{/*sideburns left */}
 <div className="U1"/>
-</div>
-
-
 <div className="V1"/>
 <div className="W1"/>
 <div className="X1"/>
 <div className="Y1"/>
 <div className="Z1"/>
+
+{/*sideburns right */}
+
 <div className="AA1"/>
 <div className="AB1"/>
 <div className="AC1"/>
@@ -101,6 +105,22 @@ function Artwork() {
 <div className="AI1"/>
 <div className="AJ1"/>
 
+<div className="AK1"/>
+<div className="AL1"/>
+<div className="AM1"/>
+<div className="AN1"/>
+<div className="AO1"/>
+<div className="AP1"/>
+<div className="AQ1"/>
+<div className="AR1"/>
+<div className="AS1"/>
+<div className="AT1"/>
+<div className="AU1"/>
+<div className="AV1"/>
+<div className="AW1"/>
+<div className="AX1"/>
+<div className="AY1"/>
+<div className="AZ1"/>
 
 
 </div>
