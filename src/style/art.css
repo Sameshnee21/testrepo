@@ -69,7 +69,7 @@ margin-right: 24%;
 
 
 .E1{
-    width: 330px;
+    width: 380px;
     height: 10px;
     background-color: rgb(43, 64, 226);
     margin-left: 49.2%;   
@@ -77,7 +77,7 @@ margin-right: 24%;
 }
 
 .F1{
-    width: 440px;
+    width: 480px;
     height: 10px;
     background-color: rgb(43, 64, 226);
     margin-left: 45%;   
@@ -85,7 +85,7 @@ margin-right: 24%;
 }
 
 .G1{
-    width: 420px;
+    width: 480px;
     height: 10px;
     background-color: rgb(43, 64, 226);
     margin-left: 45%;   
@@ -118,7 +118,7 @@ margin-right: 24%;
 }
 
 .K1{
-    width: 450px;
+    width: 460px;
     height: 40px;
     background-color: rgb(43, 64, 226);
     margin-left: 43%;   
@@ -126,7 +126,7 @@ margin-right: 24%;
 }
 
 .L1{
-    width: 490px;
+    width: 520px;
     height: 50px;
     background-color: rgb(43, 64, 226);
     margin-left: 40%;   
@@ -134,7 +134,7 @@ margin-right: 24%;
 }
 
 .M1{
-    width: 580px;
+    width: 620px;
     height: 50px;
     background-color: rgb(43, 64, 226);
     margin-left: 36%;   
@@ -142,11 +142,86 @@ margin-right: 24%;
 }
 
 .N1{
-    width: 600px;
-    height: 40px;
+    width: 650px;
+    height: 60px;
     background-color: rgb(43, 64, 226);
     margin-left: 35%;   
     margin-top: -2%;
+}
+
+.U1{
+
+    width: 670px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 34%;   
+    margin-top: -25%; 
+}
+
+/*SIDEBURNS left*/
+
+.V1{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 35%;   
+    margin-top: -20%; 
+}
+.W1{
+    width: 70px;
+    height: 120px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 35%;   
+    margin-top: -1%;  
+}
+
+.X1{
+    width: 70px;
+    height: 90px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 36%;   
+    margin-top: -1%;    
+}
+
+.Y1{
+    width: 10px;
+    height: 190px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 36%;   
+    margin-top: -1%;     
+}
+
+.Z1{
+    width: 10px;
+    height: 30px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 36%;   
+    margin-top: -10%; 
+}
+
+/*SIDEBURNS right*/
+.AA1{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 86%;   
+    margin-top: -28%;  
+}
+
+.AB1{
+    width: 70px;
+    height: 120px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 87.7%;   
+    margin-top: -1%;  
+}
+
+.AC1{
+    width: 70px;
+    height: 90px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 87%;   
+    margin-top: -1%;  
 }
 
 /*eyebrows (left)*/
@@ -155,7 +230,7 @@ margin-right: 24%;
     height: 10px;
     background-color: rgb(43, 64, 226);
     margin-left: 50%;   
-    margin-top: 18%;   
+    margin-top: 19%;   
 }
 
 .P1{
@@ -199,3 +274,4 @@ margin-right: 24%;
     margin-left: 67%;   
     margin-top: 0%; 
 }
+
