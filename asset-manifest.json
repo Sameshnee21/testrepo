@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testrepo/static/css/main.250255a3.css",
-    "main.js": "/testrepo/static/js/main.0b2ced75.js",
+    "main.css": "/testrepo/static/css/main.e3796631.css",
+    "main.js": "/testrepo/static/js/main.30d876d1.js",
     "reactPlayerPreview.js": "/testrepo/static/js/reactPlayerPreview.98c71b79.chunk.js",
     "static/media/art3.png": "/testrepo/static/media/art3.907c165fb00db91ece88.png",
     "static/media/essay3.png": "/testrepo/static/media/essay3.2b87e022dc182f638b60.png",
@@ -57,12 +57,12 @@
     "static/media/2.png": "/testrepo/static/media/2.b79ffa9376cf51e0220b.png",
     "static/media/4.png": "/testrepo/static/media/4.d415f648c01e869ec5c0.png",
     "index.html": "/testrepo/index.html",
-    "main.250255a3.css.map": "/testrepo/static/css/main.250255a3.css.map",
-    "main.0b2ced75.js.map": "/testrepo/static/js/main.0b2ced75.js.map",
+    "main.e3796631.css.map": "/testrepo/static/css/main.e3796631.css.map",
+    "main.30d876d1.js.map": "/testrepo/static/js/main.30d876d1.js.map",
     "reactPlayerPreview.98c71b79.chunk.js.map": "/testrepo/static/js/reactPlayerPreview.98c71b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.250255a3.css",
-    "static/js/main.0b2ced75.js"
+    "static/css/main.e3796631.css",
+    "static/js/main.30d876d1.js"
   ]
 }
