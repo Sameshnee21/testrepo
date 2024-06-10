@@ -165,7 +165,7 @@ margin-right: 24%;
     height: 40px;
     background-color: rgb(43, 64, 226);
     margin-left: 35%;   
-    margin-top: -20%; 
+    margin-top: -21%; 
 }
 .W1{
     width: 70px;
@@ -190,22 +190,22 @@ margin-right: 24%;
     margin-left: 36%;   
     margin-top: -1%;     
 }
-
 .Z1{
-    width: 10px;
-    height: 30px;
+    width: 70px;
+    height: 20px;
     background-color: rgb(43, 64, 226);
     margin-left: 36%;   
-    margin-top: -10%; 
+    margin-top: -16%; 
 }
+
 
 /*SIDEBURNS right*/
 .AA1{
     width: 90px;
-    height: 40px;
+    height: 50px;
     background-color: rgb(43, 64, 226);
     margin-left: 86%;   
-    margin-top: -28%;  
+    margin-top: -23%;  
 }
 
 .AB1{
@@ -220,10 +220,75 @@ margin-right: 24%;
     width: 70px;
     height: 90px;
     background-color: rgb(43, 64, 226);
-    margin-left: 87%;   
+    margin-left: 86%;   
     margin-top: -1%;  
 }
 
+.AD1{
+    width: 10px;
+    height: 170px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 91.4%;   
+    
+}
+
+.AE1{
+    width: 70px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 86%;   
+    margin-top: -16%;   
+}
+
+/*ear right*/
+.AF1{
+    width: 20px;
+    height: 220px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 86%;   
+    margin-top: -6%;  
+}
+
+.AH1{
+    width: 30px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 88%;   
+    margin-top: 2%;  
+}
+
+.AK1{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 97%;   
+    margin-top: 1%;  
+}
+/*LMNOPQRSTUVWXYZ*/
+/*ear left*/
+.AG1{
+    width: 20px;
+    height: 200px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 40.4%;   
+    margin-top: -15%;  
+}
+
+.AI1{
+    width: 30px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 38%;   
+    margin-top: -2%;  
+}
+
+.AJ1{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 37%;   
+    margin-top: -5%;  
+}
 /*eyebrows (left)*/
 .O1{
     width: 110px;
