@@ -118,10 +118,37 @@ function Artwork() {
 <div className="AU1"/>
 <div className="AV1"/>
 <div className="AW1"/>
+
+{/*NOSE */}
 <div className="AX1"/>
 <div className="AY1"/>
 <div className="AZ1"/>
-
+<div className="BA1"/>
+<div className="BB1"/>
+<div className="BC1"/>
+<div className="BD1"/>
+<div className="BE1"/>
+<div className="BF1"/>
+<div className="BG1"/>
+<div className="BH1"/>
+<div className="BI1"/>
+<div className="BJ1"/>
+<div className="BK1"/>
+<div className="BL1"/>
+<div className="BM1"/>
+<div className="BN1"/>
+<div className="BO1"/>
+<div className="BP1"/>
+<div className="BQ1"/>
+<div className="BR1"/>
+<div className="BS1"/>
+<div className="BT1"/>
+<div className="BU1"/>
+<div className="BV1"/>
+<div className="BW1"/>
+<div className="BX1"/>
+<div className="BY1"/>
+<div className="BZ1"/>
 
 </div>
 
