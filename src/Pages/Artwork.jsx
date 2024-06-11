@@ -48,7 +48,7 @@ function Artwork() {
 {/*https://i.pinimg.com/originals/49/0a/b5/490ab5d632b5ba37f427c6a1f171336f.jpg */}
 
        
-<h3  className="Title">ARTWORK SPACE HERE.</h3>  
+<h3  className="Title">Micheal Dunlop breaking Joey Dunlop's 26 win streak in the 2024 IOMTT!</h3>  
 <img className="pixel" src={dunlop} alt="" />
  
 {/*hair chunks*/ }
@@ -134,12 +134,16 @@ function Artwork() {
 <div className="BI1"/>
 <div className="BJ1"/>
 <div className="BK1"/>
+
+{/*CHEEK */}
 <div className="BL1"/>
 <div className="BM1"/>
 <div className="BN1"/>
 <div className="BO1"/>
 <div className="BP1"/>
 <div className="BQ1"/>
+
+{/*LIPS */}
 <div className="BR1"/>
 <div className="BS1"/>
 <div className="BT1"/>
@@ -149,6 +153,10 @@ function Artwork() {
 <div className="BX1"/>
 <div className="BY1"/>
 <div className="BZ1"/>
+
+<div className="CA1"/>
+<div className="CB1"/>
+<div className="CC1"/>
 
 </div>
 
