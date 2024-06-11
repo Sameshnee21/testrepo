@@ -158,6 +158,8 @@ function Artwork() {
 <div className="CB1"/>
 <div className="CC1"/>
 
+<h4>This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter, with upcoming racer, Davey Todd winning the Senior TT, Peter Hickman winning his 14th race.</h4>
+
 </div>
 
  
