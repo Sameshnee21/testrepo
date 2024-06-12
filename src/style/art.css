@@ -866,10 +866,10 @@ margin-right: 24%;
 
     /*O*/
 
-    .CV1{
-        width: 60px;
+  .CV1{
+    width: 30px;
         height: 90px;
         background-color: rgb(230, 160, 8);
-        margin-left: 60%;   
-        margin-bottom: 100%;  
-    }
+        margin-left: 65%;   
+        margin-top: -16%;
+  }
