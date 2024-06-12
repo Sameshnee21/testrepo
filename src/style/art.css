@@ -840,3 +840,36 @@ margin-right: 24%;
         margin-left: 65%;   
         margin-top: -2%;  
     }
+    /*LOP*/
+
+    .LOP{
+        margin-left:106%;   
+        margin-top: -73%;  
+        background-color: transparent; 
+    }
+/*L*/
+    .CT1{
+        width: 60px;
+        height: 210px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65%;   
+        margin-top: -2%;  
+    }
+
+    .CU1{
+        width: 160px;
+        height: 50px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65%;   
+        margin-top: -6%;  
+    }
+
+    /*O*/
+
+    .CV1{
+        width: 60px;
+        height: 90px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 60%;   
+        margin-bottom: 100%;  
+    }
