@@ -842,7 +842,7 @@ margin-right: 24%;
     }
     /*LOP*/
 
-    /*.LOP{
+    .LOP{
         background-color: transparent; 
     }
 /*L*/
@@ -905,3 +905,60 @@ margin-right: 24%;
         margin-top: -20%;
   }
 
+  .DA1{
+    width: 30px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 115%;   
+        margin-top: 10%;
+  }
+
+  .DB1{
+    width: 30px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 106.5%;   
+        margin-top: -17%;
+  }
+
+  .DC1{
+    width: 30px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 106.5%;   
+        margin-top: 10%;
+  }
+
+  /*P*/
+
+  .DD1{
+    width: 60px;
+        height: 250px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 106.5%;   
+        margin-top: 5%;
+  }
+
+  .DE1{
+    width: 110px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 110%;   
+        margin-top: -22.3%;
+  }
+
+  .DF1{
+    width: 110px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 110%;   
+        margin-top: 7%;
+  }
+
+  .DG1{
+    width: 40px;
+        height: 110px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 119%;   
+        margin-top: -12%;
+  }
