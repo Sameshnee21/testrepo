@@ -49,6 +49,7 @@ function Artwork() {
 
        
 <h3  className="Title">Micheal Dunlop breaking Joey Dunlop's 26 win streak in the 2024 IOMTT!</h3>  
+<h4>This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter, with upcoming racer, Davey Todd winning the Senior TT, Peter Hickman winning his 14th race.</h4>
 <img className="pixel" src={dunlop} alt="" />
  
 {/*hair chunks*/ }
@@ -158,7 +159,34 @@ function Artwork() {
 <div className="CB1"/>
 <div className="CC1"/>
 
-<h4>This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter, with upcoming racer, Davey Todd winning the Senior TT, Peter Hickman winning his 14th race.</h4>
+<div className="DUN">
+  {/*D */}
+<div className="CD1"/>
+<div className="CE1"/>
+<div className="CF1"/>
+<div className="CG1"/>
+<div className="CH1"/>
+<div className="CI1"/>
+
+{/*U */}
+<div className="CJ1"/>
+<div className="CK1"/>
+<div className="CL1"/>
+<div className="CM1"/>
+<div className="CN1"/>
+<div className="CO1"/>
+<div className="CP1"/>
+<div className="CQ1"/>
+<div className="CR1"/>
+<div className="CS1"/>
+<div className="CT1"/>
+</div>
+
+<div className="LOP">
+
+</div>
+
+
 
 </div>
 

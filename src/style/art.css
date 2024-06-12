@@ -701,3 +701,142 @@ margin-right: 24%;
         margin-left: 61%;   
         margin-top: 0%;  
     }
+
+    /*DUN*/
+
+    .DUN{
+        margin-left: -146%;   
+        margin-top: -66%;  
+        background-color: transparent;
+    }
+
+    /*D*/
+    .CD1{
+        width: 60px;
+        height: 280px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 61%;   
+        margin-top: 0%;  
+    }
+
+    .CE1{
+        width: 60px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 63%;   
+        margin-top: -10.17%;  
+    }
+
+    .CF1{
+        width: 60px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 63%;   
+        margin-top: 7.25%;  
+    }
+
+    .CG1{
+        width: 60px;
+        height: 120px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 66%;   
+        margin-top: -7%;  
+    }
+
+    .CH1{
+        width: 60px;
+        height: 80px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65%;   
+        margin-top: -7%;  
+    }
+
+    .CI1{
+        width: 60px;
+        height: 80px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65%;   
+        margin-top: 3%;  
+    }
+
+    /*U*/
+    .CJ1{
+        width: 60px;
+        height: 180px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 61%;   
+        margin-top: 4%;  
+    }
+
+    .CK1{
+        width: 60px;
+        height: 180px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65.5%;   
+        margin-top: -6.5%;  
+    }
+
+    .CL1{
+        width: 100px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 62.5%;   
+        margin-top: 0.5%;  
+    }
+
+    .CM1{
+        width: 40px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 62%;   
+        margin-top: -2%;  
+    }
+
+    .CN1{
+        width: 40px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65%;   
+        margin-top: -1.5%;  
+    }
+
+    /*N*/
+    .CO1{
+        width: 60px;
+        height: 200px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 61%;   
+        margin-top: 2%;  
+    }
+
+    .CP1{
+        width: 60px;
+        height: 200px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 66%;   
+        margin-top: -7.2%;  
+    }
+
+    .CQ1{
+        width: 30px;
+        height: 90px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 63%;   
+        margin-top: -6.5%;  
+    }
+
+    .CR1{
+        width: 30px;
+        height: 90px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 64%;   
+        margin-top: -2%;  
+    }
+
+    .CS1{
+        width: 30px;
+        height: 90px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 65%;   
+        margin-top: -2%;  
+    }
