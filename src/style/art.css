@@ -842,9 +842,7 @@ margin-right: 24%;
     }
     /*LOP*/
 
-    .LOP{
-        margin-left:106%;   
-        margin-top: -73%;  
+    /*.LOP{
         background-color: transparent; 
     }
 /*L*/
@@ -852,24 +850,58 @@ margin-right: 24%;
         width: 60px;
         height: 210px;
         background-color: rgb(230, 160, 8);
-        margin-left: 65%;   
-        margin-top: -2%;  
+        margin-left: 107%;   
+        margin-top: -73%;  
+        
     }
 
     .CU1{
         width: 160px;
         height: 50px;
         background-color: rgb(230, 160, 8);
-        margin-left: 65%;   
-        margin-top: -6%;  
+        margin-left: 107%;   
+        margin-top: -2%;  
+        
     }
 
     /*O*/
 
   .CV1{
-    width: 30px;
-        height: 90px;
+    width: 60px;
+        height: 160px;
         background-color: rgb(230, 160, 8);
-        margin-left: 65%;   
-        margin-top: -16%;
+        margin-left: 102%;   
+        margin-top: 10%;
   }
+
+  .CW1{
+    width: 60px;
+        height: 160px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 117%;   
+        margin-top: -14%;
+  }
+
+  .CX1{
+    width: 90px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 108%;   
+        margin-top: -19%;
+  }
+  .CY1{
+    width: 90px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 108%;   
+        margin-top: 16%;
+  }
+
+  .CZ1{
+    width: 30px;
+        height: 40px;
+        background-color: rgb(230, 160, 8);
+        margin-left: 115%;   
+        margin-top: -20%;
+  }
+

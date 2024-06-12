@@ -185,13 +185,44 @@ function Artwork() {
 </div>
 
 <div className="LOP">
+
+  {/*L */}
 <div className="CT1"/>
 <div className="CU1"/>
+
+{/*O */}
 <div className="CV1"/>
 <div className="CW1"/>
 <div className="CX1"/>
 <div className="CY1"/>
 <div className="CZ1"/>
+
+<div className="DA1"/>
+<div className="DB1"/>
+<div className="DC1"/>
+<div className="DD1"/>
+<div className="DE1"/>
+<div className="DF1"/>
+<div className="DG1"/>
+<div className="DH1"/>
+<div className="DI1"/>
+<div className="DJ1"/>
+<div className="DK1"/>
+<div className="DL1"/>
+<div className="DM1"/>
+<div className="DN1"/>
+<div className="DO1"/>
+<div className="DP1"/>
+<div className="DQ1"/>
+<div className="DR1"/>
+<div className="DS1"/>
+<div className="DT1"/>
+<div className="DU1"/>
+<div className="DV1"/>
+<div className="DW1"/>
+<div className="DX1"/>
+<div className="DY1"/>
+<div className="DZ1"/>
 
 
 
