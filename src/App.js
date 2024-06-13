@@ -30,7 +30,7 @@ function App() {
         </Routes>
       </BrowserRouter>
 
-      <p style={{ marginTop: "100vh" }}>bottom</p>
+      <p style={{ marginTop: "100vh" }}></p>
     </>
   );
 }

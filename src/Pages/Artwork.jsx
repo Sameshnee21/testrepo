@@ -49,10 +49,44 @@ function Artwork() {
 
   {/*Information from the Isle of Man TT Instagram page, updates throughout the 2 weeks were posted daily. */}      
 <h3  className="Title">Micheal Dunlop breaking Joey Dunlop's 26 win streak in the 2024 IOMTT!</h3>  
-<p className="P">This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter with upcoming racer, Davey Todd winning the Senior TT and Peter Hickman winning his 14th race.</p>
-<p className="P">The artwork is scaled to take up a considerable amount of space to create a "slow reveal" of the portrait. The significance behind this is a representation of all the years of hard work and races won.</p>
+<p className="P">This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter with upcoming racer, Davey Todd winning the Senior TT and Peter Hickman winning his 14th race. Overall every participant gave it their best through many trials and tribulations.</p>
+<p className="P">The artwork is scaled to take up a considerable amount of space to create a "slow reveal" of the portrait. The significance behind this is a representation of all the years of hard work and races won. The "retro" styling gives the artwork a game-like feel yet still allows the viewer to take in the information. The name of the rider is not provided but rather his surname only which allows curious users to explore the rich history of the Dunlop Legacy. </p>
 <img className="pixel" src={dunlop} alt="" />
  
+ {/*https://www.iomttraces.com/latest/news/michael-dunlop-asserts-himself-as-greatest-of-all-time-with-28th-tt-win/#:~:text=Michael%20Dunlop%20took%20his%2028th%20victory%20at%20the,sixth%20successive%20Supersport%20win%20and%2013th%20in%20total. */}
+<div className="HIS1">
+<p className="HISTORY">2009:Supersport Race 1</p>
+<p className="HISTORY">2011:Superstock</p>
+<p className="HISTORY">2012:Supersport Race 2</p>
+<p className="HISTORY">2013:Superbike</p>
+<p className="HISTORY">2013:Superstock</p>
+<p className="HISTORY">2013:Supersport Race 1</p>
+<p className="HISTORY">2013:Supersport Race 2</p>
+<p className="HISTORY">2014:Superbike</p>
+<p className="HISTORY">2014:Superstock</p>
+<p className="HISTORY">2014:Supersport Race 2</p>
+<p className="HISTORY">2014:Senior</p>
+<p className="HISTORY">2016:Superbike</p>
+<p className="HISTORY">2016:Senior</p>
+<p className="HISTORY">2017:Supersport Race 1</p>
+</div>
+
+<div className="HIS2">
+<p className="HISTORY2">2017:Senior</p>
+<p className="HISTORY2">2018:Superbike</p>
+<p className="HISTORY2">2018:Supersport Race 1</p>
+<p className="HISTORY2">2018:Lightweight</p>
+<p className="HISTORY2">2019:Lightweight</p>
+<p className="HISTORY2">2022:Supersport Race 1</p>
+<p className="HISTORY2">2022:Supersport Race 2</p>
+<p className="HISTORY2">2023:Superbike</p>
+<p className="HISTORY2">2023:Supersport Race 1</p>
+<p className="HISTORY2">2023:Supersport Race 2</p>
+<p className="HISTORY2">2023:Supertwin</p>
+<p className="HISTORY2">2024:Supersport Race 1</p>
+<p className="HISTORY2">2024:Supertwin</p>
+<p className="HISTORY2">2024:Supersport Race 2</p>
+</div>
 
 {/*hair chunks*/ }
 
@@ -380,10 +414,9 @@ function Artwork() {
 
 </div>
 </div>
-<h3  className="Title">A DEEPER DIVE INTO MICHEAL DUNLOP'S RECORD HISTORY.</h3>
-<p className="P">GG</p>
- 
-      </div>
+
+</div>
+      
     );
   }
   
