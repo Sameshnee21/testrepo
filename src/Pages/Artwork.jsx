@@ -52,6 +52,7 @@ function Artwork() {
 <p className="P">This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter with upcoming racer, Davey Todd winning the Senior TT and Peter Hickman winning his 14th race.</p>
 <img className="pixel" src={dunlop} alt="" />
  
+
 {/*hair chunks*/ }
 
 <div className="A">
@@ -319,7 +320,8 @@ function Artwork() {
 <div className="GY1"/>
 <div className="GZ1"/>
 
-{/*HAIR DETAIL */}
+ {/* */}
+ {/*HAIR DETAIL */}
 <div className="HA1"/>
 <div className="HB1"/>
 <div className="HC1"/>
@@ -329,6 +331,7 @@ function Artwork() {
 <div className="HG1"/>
 <div className="HH1"/>
 <div className="HI1"/>
+
 <div className="HJ1"/>
 <div className="HK1"/>
 <div className="HL1"/>
