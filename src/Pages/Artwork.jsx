@@ -232,6 +232,8 @@ function Artwork() {
 <div className="EB1"/>
 <div className="EC1"/>
 <div className="ED1"/>
+
+{/*INNER SHIRT (UNDER CHIN) */}
 <div className="EE1"/>
 <div className="EF1"/>
 <div className="EG1"/>
@@ -254,6 +256,35 @@ function Artwork() {
 <div className="EX1"/>
 <div className="EY1"/>
 <div className="EZ1"/>
+
+{/*SHOULDERS */}
+<div className="FA1"/>
+<div className="FB1"/>
+<div className="FC1"/>
+<div className="FD1"/>
+<div className="FE1"/>
+<div className="FF1"/>
+<div className="FG1"/>
+<div className="FH1"/>
+<div className="FI1"/>
+<div className="FJ1"/>
+<div className="FK1"/>
+<div className="FL1"/>
+<div className="FM1"/>
+<div className="FN1"/>
+<div className="FO1"/>
+<div className="FP1"/>
+<div className="FQ1"/>
+<div className="FR1"/>
+<div className="FS1"/>
+<div className="FT1"/>
+<div className="FU1"/>
+<div className="FV1"/>
+<div className="FW1"/>
+<div className="FX1"/>
+<div className="FY1"/>
+<div className="FZ1"/>
+
 
 
 

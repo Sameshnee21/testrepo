@@ -1269,3 +1269,51 @@ margin-right: 24%;
     margin-left: 70%;   
     margin-top: -2.7%;  
 }
+
+.EU1{
+    width: 60px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 61.5%;   
+    margin-top: -2.8%;  
+}
+
+.EV1{
+    width: 80px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 60.5%;   
+    margin-top: 0%;  
+}
+
+.EW1{
+    width: 130px;
+    height: 40px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 58.5%;   
+    margin-top: 0%;  
+}
+
+.EX1{
+    width: 110px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 59.5%;   
+    margin-top: 0%;  
+}
+
+.EY1{
+    width: 90px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 60.5%;   
+    margin-top: 0%;  
+}
+
+.EZ1{
+    width: 50px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 62.5%;   
+    margin-top: 0%;  
+}
