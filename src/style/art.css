@@ -1606,4 +1606,133 @@ margin-right: 24%;
     background-color: rgb(43, 64, 226);
     margin-left: 87.5%;   
     margin-top: -0.8%;  
-}/*right shoulder, middle linework*/
+}
+
+.GK1{
+    width: 10px;
+    height: 50px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 89.2%;   
+    margin-top: 0%;  
+}
+.GL1{
+    width: 10px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 90%;   
+    margin-top: -1.8%;  
+}
+
+.GM1{
+    width: 10px;
+    height: 50px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 39%;   
+    margin-top: -5%;  
+}
+.GN1{
+    width: 10px;
+    height: 20px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 38.1%;   
+    margin-top: -1.8%;  
+}
+
+.GO1{
+    width: 80px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 31%;   
+    margin-top: 0%;  
+}
+
+.GP1{
+    width: 80px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 90.9%;   
+    margin-top: -0.5%;  
+}
+
+.GQ1{
+    width: 40px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 97%;   
+    margin-top: 0%;  
+}
+
+.GR1{
+    width: 40px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 28%;   
+    margin-top: -1.4%;  
+}
+
+/*3RD LINE SHOULDER DETAIL*/
+.GS1{
+    width: 40px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 42.3%;   
+    margin-top: 0%;  
+}
+
+.GT1{
+    width: 10px;
+    height: 190px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 42.3%;   
+    margin-top: 0%;  
+}
+
+.GU1{
+    width: 40px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 83%;   
+    margin-top: -18%;  
+}
+
+.GV1{
+    width: 10px;
+    height: 190px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 85.65%;   
+    margin-top: 0%;  
+}
+
+/*MIDDLE ZIP*/
+
+.GW1{
+    width: 10px;
+    height: 120px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 62%;   
+    margin-top: 5%;  
+}
+
+.GX1{
+    width: 10px;
+    height: 120px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 66%;   
+    margin-top: -10.7%;  
+}
+
+.GY1{
+    width: 10px;
+    height: 90px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 66.8%;   
+    margin-top: -4%;  
+}
+
+.GZ1{
+    width: 10px;
+    height: 90px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 61.1%;   
+    margin-top: -8%;  
+}
