@@ -377,16 +377,11 @@ function Artwork() {
 <div className="IW1"/>
 <div className="IX1"/>
 <div className="IY1"/>
-<div className="IZ1"/>
-
-
 
 </div>
-
-
-
 </div>
-
+<h3  className="Title">A DEEPER DIVE INTO MICHEAL DUNLOP'S RECORD HISTORY.</h3>
+<p className="P">GG</p>
  
       </div>
     );

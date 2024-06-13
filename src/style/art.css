@@ -26,7 +26,7 @@
 .pixel{
     width: 98%;
     height: 98%;
-    opacity: 30%;
+    opacity: 0%;
     
 }
 
@@ -1945,10 +1945,193 @@ margin-right: 24%;
     margin-top: 0%;    
 }
 
+
+
+/*WIN*/
 .HZ1{
-    width: 10px;
-    height: 10px;
-    background-color: rgb(43, 64, 226);
-    margin-left: 42%;   
-    margin-top: -5%;    
+    width: 20px;
+    height: 30px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 4%;   
+    margin-top: 71%;    
+}
+
+.IA1{
+    width: 40px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 5.7%;   
+    margin-top: -2.7%;    
+}
+.IB1{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 7.5%;   
+    margin-top: 0%;    
+}
+.IC1{
+    width: 40px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 4%;   
+    margin-top: -1.8%;    
+}
+.ID1{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 4%;   
+    margin-top: 0%;    
+}
+.IE1{
+    width: 60px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 4%;   
+    margin-top: -1.5%;    
+}
+.IF1{
+    width: 60px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 12%;   
+    margin-top: -1.8%;    
+}
+.IG1{
+    width: 60px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 12%;   
+    margin-top: -9.2%;    
+}
+.IH1{
+    width: 20px;
+    height: 70px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 12%;   
+    margin-top: 0%;    
+}
+.II1{
+    width: 20px;
+    height: 70px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 15.6%;   
+    margin-top: -6.8%;    
+}
+.IJ1{
+    width: 50px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 12%;   
+    margin-top: -3.5%;    
+}
+.IK1{
+    width: 50px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 19.5%;   
+    margin-top: -3%;    
+}
+.IL1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 20.8%;   
+    margin-top: -4.5%;    
+}
+.IM1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 24.5%;   
+    margin-top: -9%;    
+}
+.IN1{
+    width: 60px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 24.5%;   
+    margin-top: -4%;    
+}
+.IO1{
+    width: 20px;
+    height: 30px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 28.1%;   
+    margin-top: -0.3%;    
+}
+
+/*WIN */
+.IP1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 4%;   
+    margin-top: 3%;    
+}
+
+.IQ1{
+    width: 20px;
+    height: 80px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 7%;   
+    margin-top: -8%;    
+}
+
+.IR1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 10%;   
+    margin-top: -8%;    
+}
+.IS1{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 5.5%;   
+    margin-top: -4%;    
+}
+.IT1{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 8.2%;   
+    margin-top: -3.5%;    
+}
+.IU1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 14%;   
+    margin-top: -8.6%;    
+}
+.IV1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 18%;   
+    margin-top: -8.9%;    
+}
+.IW1{
+    width: 20px;
+    height: 100px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 22%;   
+    margin-top: -8.9%;    
+}
+.IX1{
+    width: 40px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 19%;   
+    margin-top: -8.95%;    
+}
+.IY1{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(247, 127, 7);
+    margin-left: 25%;   
+    margin-top: 5.5%;    
 }
