@@ -306,15 +306,46 @@ function Artwork() {
 <div className="GP1"/>
 <div className="GQ1"/>
 <div className="GR1"/>
+
+{/*THIRD LINE SHOULDER DETAIL */}
 <div className="GS1"/>
 <div className="GT1"/>
 <div className="GU1"/>
 <div className="GV1"/>
+
+{/*MIDDLE ZIP */}
 <div className="GW1"/>
 <div className="GX1"/>
 <div className="GY1"/>
 <div className="GZ1"/>
 
+{/*HAIR DETAIL */}
+<div className="HA1"/>
+<div className="HB1"/>
+<div className="HC1"/>
+<div className="HD1"/>
+<div className="HE1"/>
+<div className="HF1"/>
+<div className="HG1"/>
+<div className="HH1"/>
+<div className="HI1"/>
+<div className="HJ1"/>
+<div className="HK1"/>
+<div className="HL1"/>
+<div className="HM1"/>
+<div className="HN1"/>
+<div className="HO1"/>
+<div className="HP1"/>
+<div className="HQ1"/>
+<div className="HR1"/>
+<div className="HS1"/>
+<div className="HT1"/>
+<div className="HU1"/>
+<div className="HV1"/>
+<div className="HW1"/>
+<div className="HX1"/>
+<div className="HY1"/>
+<div className="HZ1"/>
 
 
 

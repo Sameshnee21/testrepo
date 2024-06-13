@@ -238,7 +238,19 @@ international journal, 3(1).
 </div>
 </div>
 
+<h2 className="INTRO">MORE READS: NET ART, AI AND PROGRESS...</h2>
 
+<h3 className="INTRO">IMPRESSIONS OF NET ART</h3>
+<p className="INTROT">CHEESEBALL</p>
+
+<h3 className="INTRO">DEVELOPMENT OF THIS SPA</h3>
+<p className="INTROT">CHEESEBALL</p>
+
+<h3 className="INTRO">AI AND ART</h3>
+<p className="INTROT">CHEESEBALL</p>
+
+<h3 className="INTRO">WEBSITES THAT FUNCTION AS ARTWORKS</h3>
+<p className="INTROT">CHEESEBALL</p>
 
         </div>
     );
