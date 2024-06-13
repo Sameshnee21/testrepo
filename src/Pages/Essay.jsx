@@ -240,17 +240,75 @@ international journal, 3(1).
 
 <h2 className="INTRO">MORE READS: NET ART, AI AND PROGRESS...</h2>
 
-<h3 className="INTRO">IMPRESSIONS OF NET ART</h3>
-<p className="INTROT">CHEESEBALL</p>
+<h3 className="INTRO">1. IMPRESSIONS OF NET ART</h3>
+<p className="INTROT">Net art is an area where creativity merges with digital technology to produce dynamic and
+interactive artworks. Net art delivers new forms of artistic expression by using the internet as
+both a medium and a platform. It transcends traditional art spaces, to reach audiences
+through a global platform through websites, social media, and digital networks. Net art
+provides viewers with an immersive and participatory experiences, thus concealing the
+boundaries between creator and audience. It often invites users to interact with the artwork,
+shaping their own unique encounters and interpretations. Net artists experiment with a wide
+range of digital tools, techniques, and programming languages to create visually striking and
+conceptually rich works. They push the boundaries of what is possible within the digital
+realm, embracing the dynamic nature of the internet. I&#39;m intrigued by net art that delves into
+thought-provoking concepts and addresses pressing social, political, and cultural issues.
+Artworks that challenge conventional stereotypes and frames of reference, provoke critical
+reflection, and spark meaningful dialogue capture people’s interest. Net art has the potential
+to fundamentally open access to art by transcending geographical and institutional barriers. I
+appreciate initiatives that prioritize inclusivity and make art more accessible to diverse
+audiences, regardless of their background or location. While net art has the potential to be
+inclusive, some platforms and communities may perpetuate exclusivity and elitism within the
+art world. While technology plays a critical role in net art, there are narratives that reduce
+artistic practice to mere technological determinism. Artworks should be evaluated based on
+their conceptual rigor, aesthetic qualities, and societal impact, rather than solely on the
+novelty of their technological implementation. As with any form of digital expression, net art
+raises ethical concerns related to privacy, data security, and algorithmic bias. Artists,
+platforms, and institutions must navigate these issues responsibly and prioritize the well-
+being and autonomy of both creators and audiences.</p>
 
-<h3 className="INTRO">DEVELOPMENT OF THIS SPA</h3>
-<p className="INTROT">CHEESEBALL</p>
 
-<h3 className="INTRO">AI AND ART</h3>
-<p className="INTROT">CHEESEBALL</p>
+<h3 className="INTRO">2. AI AND ART</h3>
+<p className="INTROT">The intriguing intersections between AI and art have sparked interesting discussions about
+authorship, creativity, and the nature of art itself. AI can integrate with the work artists of or
+be a mechanism, providing new environments for artistic expression. AI algorithms can
+produce literature, music, and visual art, which can be included in their creations to extend or
+amplify expression and dimension. AI generated art, challenges traditional thought on what
+constitutes creativity. Even if AI can create something unique, questions still arise as to
+whether it is due to the technology or is it really a creative process. One may never truly
+acknowledge if AI understands the idea of creativity. It becomes more difficult to distinguish
+between an artist and a tool when using AI. The authenticity of the being produced may
+always be questioned when art is produced by AI. We are tested on our understanding of
+authorship and intellectual property rights by these questions. AI can amplify the creative
+scope of artists. It may also erode the line that separates a tool from an artist. Who is the
+rightful owner of AI art? Does it stem belong to the artist or AI solely, or both? These
+inquiries cast doubt on our comprehension of authorship and intellectual property. Although
+the new techniques, styles, and possibilities may be endless, does it then restrict the
+possibilities of human creativity or it can inspire artists to explore unconventional ideas and
+push the boundaries of their craft.</p>
 
-<h3 className="INTRO">WEBSITES THAT FUNCTION AS ARTWORKS</h3>
-<p className="INTROT">CHEESEBALL</p>
+<h3 className="INTRO">3. WEBSITES THAT FUNCTION AS ARTWORKS</h3>
+<p className="INTROT">Websites that function as artwork represent an integration of digital technology and artistic
+expression. Websites as art offer a unique opportunity for viewers to engage with the
+artwork in an interactive and immersive manner. Visitors can navigate through the site,
+interact with various elements, and often play an active role in shaping their experience.
+Unlike static forms of art, websites can incorporate dynamic content that changes over time.
+This dynamic nature allows artists to create living artworks that respond to user input,
+environmental factors, or real-time data, adding layers of complexity and unpredictability to
+the experience. Websites can seamlessly integrate different multimedia elements such as
+text, images, videos, sound, and interactive animations to create a rich tapestry. This
+multimedia approach enables artists to deposit a multi-sensory experience that transcends
+the limitations of traditional art forms. One of the most compelling aspects of websites-as-art
+is their potential for widespread accessibility and global reach. Unlike physical artworks
+confined to specific locations, websites can be accessed by anyone with an internet
+connection, making art more inclusive and accessible to diverse audiences around the
+world. Artists often test the limitations of web design and user interface norms,
+experimenting with unconventional layouts, navigation structures, and visual aesthetics to
+create new and unique experiences. These experimental approaches challenge viewers&#39;
+perceptions of what a website is and how it can function as an artistic medium. Websites-
+as-art can explore a wide range of conceptual themes and ideas, from personal narratives
+and social commentary to philosophical inquiries and political activism. The digital medium
+allows artists to explore complex concepts in innovative ways, inviting viewers to engage
+with deeper layers of meaning and interpretation.</p>
 
         </div>
     );
