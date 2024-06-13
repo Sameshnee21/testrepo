@@ -283,7 +283,37 @@ function Artwork() {
 <div className="FW1"/>
 <div className="FX1"/>
 <div className="FY1"/>
+
+{/*zip */}
 <div className="FZ1"/>
+
+{/*shoulders p2 */}
+<div className="GA1"/>
+<div className="GB1"/>
+<div className="GC1"/>
+<div className="GD1"/>
+<div className="GE1"/>
+<div className="GF1"/>
+<div className="GG1"/>
+<div className="GH1"/>
+<div className="GI1"/>
+<div className="GJ1"/>
+<div className="GK1"/>
+<div className="GL1"/>
+<div className="GM1"/>
+<div className="GN1"/>
+<div className="GO1"/>
+<div className="GP1"/>
+<div className="GQ1"/>
+<div className="GR1"/>
+<div className="GS1"/>
+<div className="GT1"/>
+<div className="GU1"/>
+<div className="GV1"/>
+<div className="GW1"/>
+<div className="GX1"/>
+<div className="GY1"/>
+<div className="GZ1"/>
 
 
 
