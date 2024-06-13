@@ -200,10 +200,14 @@ function Artwork() {
 <div className="DA1"/>
 <div className="DB1"/>
 <div className="DC1"/>
+
+{/*P */}
 <div className="DD1"/>
 <div className="DE1"/>
 <div className="DF1"/>
 <div className="DG1"/>
+
+{/*CHIN */}
 <div className="DH1"/>
 <div className="DI1"/>
 <div className="DJ1"/>
@@ -223,6 +227,33 @@ function Artwork() {
 <div className="DX1"/>
 <div className="DY1"/>
 <div className="DZ1"/>
+
+<div className="EA1"/>
+<div className="EB1"/>
+<div className="EC1"/>
+<div className="ED1"/>
+<div className="EE1"/>
+<div className="EF1"/>
+<div className="EG1"/>
+<div className="EH1"/>
+<div className="EI1"/>
+<div className="EJ1"/>
+<div className="EK1"/>
+<div className="EL1"/>
+<div className="EM1"/>
+<div className="EN1"/>
+<div className="EO1"/>
+<div className="EP1"/>
+<div className="EQ1"/>
+<div className="ER1"/>
+<div className="ES1"/>
+<div className="ET1"/>
+<div className="EU1"/>
+<div className="EV1"/>
+<div className="EW1"/>
+<div className="EX1"/>
+<div className="EY1"/>
+<div className="EZ1"/>
 
 
 
