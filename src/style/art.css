@@ -1921,3 +1921,34 @@ margin-right: 24%;
     margin-left: 55%;   
     margin-top: 0%;    
 }
+
+.HW1{
+    width: 80px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 55%;   
+    margin-top: -2%;    
+}
+
+.HX1{
+    width: 60px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 60%;   
+    margin-top: 0%;    
+}
+.HY1{
+    width: 20px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 62%;   
+    margin-top: 0%;    
+}
+
+.HZ1{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(43, 64, 226);
+    margin-left: 42%;   
+    margin-top: -5%;    
+}

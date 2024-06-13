@@ -47,9 +47,10 @@ function Artwork() {
 {/*https://za.pinterest.com/pin/431641945516040109/ */}
 {/*https://i.pinimg.com/originals/49/0a/b5/490ab5d632b5ba37f427c6a1f171336f.jpg */}
 
-       
+  {/*Information from the Isle of Man TT Instagram page, updates throughout the 2 weeks were posted daily. */}      
 <h3  className="Title">Micheal Dunlop breaking Joey Dunlop's 26 win streak in the 2024 IOMTT!</h3>  
 <p className="P">This year, Micheal Dunlop reached 28 wins, surpassing his uncle, Joey Dunlop's 26 win streak that was held onto for 24 years. This year's IOMTT was an absolute nail-biter with upcoming racer, Davey Todd winning the Senior TT and Peter Hickman winning his 14th race.</p>
+<p className="P">The artwork is scaled to take up a considerable amount of space to create a "slow reveal" of the portrait. The significance behind this is a representation of all the years of hard work and races won.</p>
 <img className="pixel" src={dunlop} alt="" />
  
 
@@ -350,8 +351,33 @@ function Artwork() {
 <div className="HY1"/>
 <div className="HZ1"/>
 
-
-
+{/*WINS */}
+<div className="IA1"/>
+<div className="IB1"/>
+<div className="IC1"/>
+<div className="ID1"/>
+<div className="IE1"/>
+<div className="IF1"/>
+<div className="IG1"/>
+<div className="IH1"/>
+<div className="II1"/>
+<div className="IJ1"/>
+<div className="IK1"/>
+<div className="IL1"/>
+<div className="IM1"/>
+<div className="IN1"/>
+<div className="IO1"/>
+<div className="IP1"/>
+<div className="IQ1"/>
+<div className="IR1"/>
+<div className="IS1"/>
+<div className="IT1"/>
+<div className="IU1"/>
+<div className="IV1"/>
+<div className="IW1"/>
+<div className="IX1"/>
+<div className="IY1"/>
+<div className="IZ1"/>
 
 
 
